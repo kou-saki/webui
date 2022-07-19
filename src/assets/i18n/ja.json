@@ -1,6 +1,6 @@
 {
   "": "",
-  " Please click the button below to add {item}.": "",
+  " Please click the button below to add {item}.": "{item} を追加するために、以下のボタンをクリックしてください。",
   " bytes.": "",
   " day, ": "",
   " days, ": "",
@@ -3389,7 +3389,7 @@
   "{service} Service": "",
   "{this} and {that}. At least one is required": "",
   "{uptimeString} as of {dateTime}": "",
-  "{used} of {total} ({used_pct})": "",
+  "{used} of {total} ({used_pct})": "{total} 中 {used} 使用(使用率 {used_pct})",
   "{value} Left": "",
   "{value} Used": "",
   " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network port number of the UPS <i>Master</i> system. The default port is <i>3493</i>.": "<b>UPSモード</b>が<i>スレーブ</i>に設定されている場合。UPS<i>マスター</i>システムの開いているネットワークポート番号を入力します。デフォルトのポートは<i>3493</i>です。",
